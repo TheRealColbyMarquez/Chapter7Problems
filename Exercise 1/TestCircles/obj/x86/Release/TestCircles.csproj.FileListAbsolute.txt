@@ -1,0 +1,5 @@
+C:\Users\eahscs\Documents\GitHub\Chapter7Problems\Exercise 1\TestCircles\bin\Release\TestCircles.exe
+C:\Users\eahscs\Documents\GitHub\Chapter7Problems\Exercise 1\TestCircles\bin\Release\TestCircles.pdb
+C:\Users\eahscs\Documents\GitHub\Chapter7Problems\Exercise 1\TestCircles\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\eahscs\Documents\GitHub\Chapter7Problems\Exercise 1\TestCircles\obj\x86\Release\TestCircles.exe
+C:\Users\eahscs\Documents\GitHub\Chapter7Problems\Exercise 1\TestCircles\obj\x86\Release\TestCircles.pdb
