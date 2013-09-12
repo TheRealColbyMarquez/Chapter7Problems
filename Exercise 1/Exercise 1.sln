@@ -7,6 +7,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DisplayHousePlants", "House
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestCircles", "TestCircles\TestCircles.csproj", "{AC6D3ABA-C6ED-4F76-9C3D-EE2F1F901159}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DemoScouts", "DemoScouts\DemoScouts.csproj", "{C6E7D665-48A4-46E3-92CA-494C33F31BF3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SchoolsDemo", "SchoolsDemo\SchoolsDemo.csproj", "{3AD5E953-AB0B-4357-878A-1A7442AA4302}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x86 = Debug|x86
@@ -25,6 +29,14 @@ Global
 		{AC6D3ABA-C6ED-4F76-9C3D-EE2F1F901159}.Debug|x86.Build.0 = Debug|x86
 		{AC6D3ABA-C6ED-4F76-9C3D-EE2F1F901159}.Release|x86.ActiveCfg = Release|x86
 		{AC6D3ABA-C6ED-4F76-9C3D-EE2F1F901159}.Release|x86.Build.0 = Release|x86
+		{C6E7D665-48A4-46E3-92CA-494C33F31BF3}.Debug|x86.ActiveCfg = Debug|x86
+		{C6E7D665-48A4-46E3-92CA-494C33F31BF3}.Debug|x86.Build.0 = Debug|x86
+		{C6E7D665-48A4-46E3-92CA-494C33F31BF3}.Release|x86.ActiveCfg = Release|x86
+		{C6E7D665-48A4-46E3-92CA-494C33F31BF3}.Release|x86.Build.0 = Release|x86
+		{3AD5E953-AB0B-4357-878A-1A7442AA4302}.Debug|x86.ActiveCfg = Debug|x86
+		{3AD5E953-AB0B-4357-878A-1A7442AA4302}.Debug|x86.Build.0 = Debug|x86
+		{3AD5E953-AB0B-4357-878A-1A7442AA4302}.Release|x86.ActiveCfg = Release|x86
+		{3AD5E953-AB0B-4357-878A-1A7442AA4302}.Release|x86.Build.0 = Release|x86
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
