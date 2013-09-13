@@ -10,6 +10,7 @@ namespace DemoScouts
         private string name;
         private int troop;
         private double owed;
+
         public const string motto = ("to obey the Girl Scout law");
         public GirlScout()
         {
