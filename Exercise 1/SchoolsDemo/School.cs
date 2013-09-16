@@ -5,9 +5,22 @@ using System.Text;
 
 namespace SchoolsDemo
 {
-    class School
+    class School : IComparable
     {
         private int enrolled;
         public int Enrolled{get;set;}
+
+         int IComparable.CompareTo(Object other)
+        {
+            School otherSchool = (School) other;
+
+            if (this.enrolled < otherSchool.enrolled)
+                return -1;
+            else if (this.enrolled > otherSchool.enrolled)
+                return 1;
+
+            return 0;
+        }
+
     }
 }
