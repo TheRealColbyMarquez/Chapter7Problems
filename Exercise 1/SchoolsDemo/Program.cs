@@ -18,14 +18,24 @@ namespace SchoolsDemo
                 school[i] = new School();
                 school[i].Enrolled = enrollment;
             }
+
             Array.Sort(school);
             Console.WriteLine("Sorted Schools:");
             for (int i = 0; i < school.Length; i++)
             {
-                Console.WriteLine("School # {0}: {1}", i, school[i].Enrolled);
+                Console.WriteLine("{0}", school[i].Enrolled);
             }
 
+                Console.Write("Minimum enrollment size: ");
+                string MinEnroll = Console.ReadLine();
+                int minEnroll = Convert.ToInt32(MinEnroll);
+
+            for (int i = 0; i < school.Length; i++)
+            {
                 
+                if (school[i].Enrolled >= minEnroll)
+                    Console.WriteLine(school[i].Enrolled);
+            }
         }
     }
 }

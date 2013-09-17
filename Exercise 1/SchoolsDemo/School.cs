@@ -14,9 +14,9 @@ namespace SchoolsDemo
         {
             School otherSchool = (School) other;
 
-            if (this.enrolled < otherSchool.enrolled)
+            if (this.Enrolled < otherSchool.Enrolled)
                 return -1;
-            else if (this.enrolled > otherSchool.enrolled)
+            else if (this.Enrolled > otherSchool.Enrolled)
                 return 1;
 
             return 0;
