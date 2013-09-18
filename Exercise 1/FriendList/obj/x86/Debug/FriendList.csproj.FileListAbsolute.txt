@@ -1,0 +1,5 @@
+C:\Users\eahscs\Documents\GitHub\Chapter7Problems\Exercise 1\FriendList\bin\Debug\FriendList.exe
+C:\Users\eahscs\Documents\GitHub\Chapter7Problems\Exercise 1\FriendList\bin\Debug\FriendList.pdb
+C:\Users\eahscs\Documents\GitHub\Chapter7Problems\Exercise 1\FriendList\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\eahscs\Documents\GitHub\Chapter7Problems\Exercise 1\FriendList\obj\x86\Debug\FriendList.exe
+C:\Users\eahscs\Documents\GitHub\Chapter7Problems\Exercise 1\FriendList\obj\x86\Debug\FriendList.pdb
