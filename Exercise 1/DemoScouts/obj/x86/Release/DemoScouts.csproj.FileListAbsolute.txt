@@ -1,0 +1,5 @@
+C:\Users\eahscs\Documents\GitHub\Chapter7Problems\Exercise 1\DemoScouts\bin\Release\DemoScouts.exe
+C:\Users\eahscs\Documents\GitHub\Chapter7Problems\Exercise 1\DemoScouts\bin\Release\DemoScouts.pdb
+C:\Users\eahscs\Documents\GitHub\Chapter7Problems\Exercise 1\DemoScouts\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\eahscs\Documents\GitHub\Chapter7Problems\Exercise 1\DemoScouts\obj\x86\Release\DemoScouts.exe
+C:\Users\eahscs\Documents\GitHub\Chapter7Problems\Exercise 1\DemoScouts\obj\x86\Release\DemoScouts.pdb

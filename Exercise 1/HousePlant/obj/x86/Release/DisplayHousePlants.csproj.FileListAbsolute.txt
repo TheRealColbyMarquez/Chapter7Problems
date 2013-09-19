@@ -1,1 +1,5 @@
 C:\Users\eahscs\Documents\GitHub\Chapter7Problems\Exercise 1\HousePlant\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\eahscs\Documents\GitHub\Chapter7Problems\Exercise 1\HousePlant\bin\Release\HousePlant.exe
+C:\Users\eahscs\Documents\GitHub\Chapter7Problems\Exercise 1\HousePlant\bin\Release\HousePlant.pdb
+C:\Users\eahscs\Documents\GitHub\Chapter7Problems\Exercise 1\HousePlant\obj\x86\Release\HousePlant.exe
+C:\Users\eahscs\Documents\GitHub\Chapter7Problems\Exercise 1\HousePlant\obj\x86\Release\HousePlant.pdb
